@@ -1,1 +1,1 @@
-# hello_data_science
+# hello-data-science
